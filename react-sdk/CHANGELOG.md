@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/tambo-ai/tambo/compare/react-v1.2.8...react-v1.3.0) (2026-06-04)
+
+
+### Features
+
+* **web:** migrate to Next.js 16 and React 19 ([#2900](https://github.com/tambo-ai/tambo/issues/2900)) ([5a654ef](https://github.com/tambo-ai/tambo/commit/5a654efe235d6f9a3711282c503c63a47b56eb22))
+
 ## [1.2.8](https://github.com/tambo-ai/tambo/compare/react-v1.2.7...react-v1.2.8) (2026-05-29)
 
 
